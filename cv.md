@@ -25,6 +25,8 @@ function smash (words) {
 
 ## My experience
 
+* [Old CV] (https://hppd0.github.io/rsschool-cv-old/)
+* [Portfolio] (https://rolling-scopes-school.github.io/hppd0-JSFEPRESCHOOL/portfolio/)
 
 ## Education studies
 
