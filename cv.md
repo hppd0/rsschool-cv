@@ -1,5 +1,7 @@
 # Malieva Katya CV
 
+![Photo](https://user-images.githubusercontent.com/90133423/147875333-f62f7458-e138-43a1-8bf6-cb4f9abc9650.png)
+
 GitHub: [@hppd0](https://github.com/hppd0)
 
 e-mail: malieowa@yandex.ru
